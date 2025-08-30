@@ -1,0 +1,7 @@
+Friends:
+  layout: linklist
+  columns: 1
+  items:
+    - icon: ''
+      title: Friends
+      url: /Friends/

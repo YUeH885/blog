@@ -1,0 +1,12 @@
+style:
+  text-align: left
+site_tree:
+  home:
+    leftbar: Friends
+
+article:
+  license: 
+
+footer:
+  content: |
+    Powered by [Hexo](https://hexo.io) & [{theme.name} {theme.version}]({theme.tree}) & [Cloudflare Pages](https://pages.cloudflare.com)
