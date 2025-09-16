@@ -14,7 +14,8 @@ echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFW06bt6jUZcn8YAflV89ni2pK05lP3dQPmqcI
 ```
 ## 删除残留的配置文件
 ```
-sudo dpkg --purge $(dpkg -l | awk '/^rc/{print $2}')
+apt list '~c'
+apt purge '~c'
 ```
 ## wireguard 允许所有流量 但不设置默认路由
 `/etc/wireguard/wg0.conf`
