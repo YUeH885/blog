@@ -1,12 +1,10 @@
 style:
   text-align: left
-site_tree:
-  home:
-    leftbar: Friends
 
 article:
   license: 
 
 footer:
   content: |
+    Friends [Mairen](https://mairen.moitr.com:5245)
     Powered by [Hexo](https://hexo.io) & [{theme.name} {theme.version}]({theme.tree}) & [Cloudflare Pages](https://pages.cloudflare.com)

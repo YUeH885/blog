@@ -1,5 +1,0 @@
----
-title: Friends
-date: 2025-08-26 20:32:51
----
-{% friends friends %}
