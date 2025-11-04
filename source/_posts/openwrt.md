@@ -47,5 +47,5 @@ make image \
 ROOTFS_PARTSIZE="1004" \
 PACKAGES="-kmod-amazon-ena -kmod-amd-xgbe -kmod-bnx2 -kmod-dwmac-intel -kmod-e1000e -kmod-e1000 -kmod-forcedeth -kmod-fs-vfat -kmod-igb -kmod-ixgbe -kmod-r8169 -kmod-tg3 -kmod-drm-i915 \
 kmod-igc kmod-nft-tproxy kmod-tcp-bbr \
-luci luci-i18n-base-zh-cn luci-i18n-package-manager-zh-cn luci-i18n-firewall-zh-cn luci-i18n-sqm-zh-cn ddns-scripts-cloudflare luci-i18n-ddns-zh-cn openssh-sftp-server tcpdump jq python3 luci-proto-wireguard"
+luci luci-i18n-base-zh-cn luci-i18n-package-manager-zh-cn luci-i18n-firewall-zh-cn luci-i18n-sqm-zh-cn ddns-scripts-cloudflare luci-i18n-ddns-zh-cn openssh-sftp-server tcpdump jq iputils-ping python3 luci-proto-wireguard"
 ```
